@@ -1,0 +1,5 @@
+{
+  "name": "Lyrics Game Builder",
+  "description": "A tool to create interactive fill-in-the-blank lyrics games. Input lyrics, mark words with asterisks, upload audio, and export a standalone HTML game file.",
+  "requestFramePermissions": []
+}
